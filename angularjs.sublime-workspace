@@ -1,0 +1,645 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"t"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"topi",
+				"topic_id"
+			],
+			[
+				"page",
+				"page_slug"
+			],
+			[
+				"edit_page",
+				"edit_page_topic"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"rev",
+				"review"
+			],
+			[
+				"step",
+				"step_text"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"c",
+				"cl	classify { |e| .. }"
+			],
+			[
+				"C",
+				"c"
+			],
+			[
+				"b",
+				"bt	belongs_to"
+			],
+			[
+				"lab",
+				"label_book"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "TOC.md",
+			"settings":
+			{
+				"buffer_size": 917,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "quick_start.md",
+			"settings":
+			{
+				"buffer_size": 2170,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "00-bootstrapping.md",
+			"settings":
+			{
+				"buffer_size": 1464,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			]
+		],
+		"width": 599.0
+	},
+	"console":
+	{
+		"height": 255.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/www/jikexueyuan/wiki/app/controllers/topics_controller.rb",
+		"/www/jikexueyuan/wiki/static/material_design_zh/_config.yml",
+		"/www/jikexueyuan/wiki/db/migrate/20141203143704_create_topics.rb",
+		"/www/jikexueyuan/wiki/app/views/layouts/application.html.erb",
+		"/www/jikexueyuan/wiki/app/views/shared/_header.html.erb",
+		"/www/jikexueyuan/wiki/app/assets/stylesheets/main.css",
+		"/www/jikexueyuan/wiki/public/material_design/style/icons.html",
+		"/www/jikexueyuan/wiki/static/material_design_zh/material_design/style/icons.html",
+		"/www/jikexueyuan/wiki/config/database.yml",
+		"/www/jikexueyuan/wiki/config/routes.rb",
+		"/www/jikexueyuan/wiki/app/views/index/index.html.erb",
+		"/www/jikexueyuan/wiki/app/views/shared/_footer.html.erb",
+		"/www/jikexueyuan/wiki/static/i.html",
+		"/www/jikexueyuan/wiki/static/material_design_zh/index.html",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/index.html.erb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/show.html.erb",
+		"/www/redmine/redmine-2.5/plugins/courses/config/locales/en.yml",
+		"/www/redmine/redmine-2.5/plugins/courses/config/locales/zh.yml",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/_form.html.erb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/controllers/courses_controller.rb",
+		"/www/redmine/redmine-2.5/plugins/courses/db/migrate/001_create_courses.rb",
+		"/Users/iceskysl/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/iceskysl/Dropbox (极客学院)/eoer/Books/Android 开发入门与实战/分工",
+		"/Users/iceskysl/wiki/git-wiki.rb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/app/views/worklogs/index.html.erb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/app/views/worklogs/_sidebar.html.erb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/app/models/worklog.rb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/lib/tasks/worklogs.rake",
+		"/www/redmine/redmine-2.5/plugins/worklogs/app/views/worklog_mailer/day_log.text.erb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/_sidebar.html.erb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/_nav.html.erb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/guide.html.erb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/app/controllers/worklogs_controller.rb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/plan.html.erb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/config/locales/it.yml",
+		"/www/redmine/redmine-2.5/plugins/worklogs/config/locales/en.yml",
+		"/www/redmine/redmine-2.5/plugins/worklogs/config/routes.rb",
+		"/www/redmine/redmine-2.5/app/helpers/queries_helper.rb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/db/migrate/004_add_review_to_worklogs.rb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/models/course.rb",
+		"/www/redmine/redmine-2.5/plugins/courses/config/routes.rb",
+		"/www/redmine/redmine-2.5/plugins/courses/db/migrate/002_add_like_to_courses.rb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/new.html.erb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/app/models/worklog_review.rb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/idea.html.erb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/list.html.erb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/audit.html.erb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/xuqiu.html.erb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/app/helpers/worklogs_helper.rb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/app/views/worklogs/_form.html.erb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/config/locales/zh.yml",
+		"/www/redmine/redmine-2.5/plugins/address_books/app/views/address_books/index.html.erb",
+		"/www/redmine/redmine-2.5/plugins/courses/init.rb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/app/views/worklogs/show.html.erb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/helpers/courses_helper.rb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/models/course_like.rb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/_nav_inner.html.erb",
+		"/www/redmine/redmine-2.5/plugins/courses/app/views/courses/edit.html.erb",
+		"/www/redmine/redmine-2.5/app/views/projects/show.html.erb",
+		"/www/redmine/redmine-2.5/app/helpers/repositories_helper.rb",
+		"/www/redmine/redmine-2.5/app/models/issue_priority.rb",
+		"/www/redmine/redmine-2.5/app/controllers/issues_controller.rb",
+		"/www/redmine/redmine-2.5/app/views/issues/_attributes.html.erb",
+		"/www/redmine/redmine-2.5/app/views/documents/index.html.erb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/db/migrate/003_add_score_to_worklogs.rb",
+		"/www/redmine/redmine-2.5/app/helpers/application_helper.rb",
+		"/www/redmine/redmine-2.5/app/views/news/_form.html.erb",
+		"/www/redmine/redmine-2.5/app/controllers/issue_categories_controller.rb",
+		"/www/redmine/redmine-2.5/app/models/news.rb",
+		"/www/redmine/redmine-2.5/app/models/project.rb",
+		"/www/redmine/redmine-2.5/app/views/projects/_form.html.erb",
+		"/www/redmine/redmine-2.5/config/environments/development.rb",
+		"/www/redmine/redmine-2.5/plugins/books/app/models/book.rb",
+		"/www/redmine/redmine-2.5/plugins/books/db/migrate/001_create_books.rb",
+		"/www/redmine/redmine-2.5/plugins/books/app/controllers/books_controller.rb",
+		"/www/redmine/redmine-2.5/plugins/books/app/views/books/index.html.erb",
+		"/www/redmine/redmine-2.5/plugins/books/app/views/books/new.html.erb",
+		"/www/redmine/redmine-2.5/config/database.yml",
+		"/www/redmine/redmine-2.5/plugins/ezlibrarian/app/controllers/treasures_controller.rb",
+		"/www/redmine/redmine-2.5/plugins/redmine_ezlibrarian/app/controllers/treasures_controller.rb",
+		"/www/redmine/redmine-2.5/plugins/redmine_ezlibrarian/init.rb",
+		"/www/redmine/redmine-2.5/plugins/treasures/config/routes.rb",
+		"/www/redmine/redmine-2.5/plugins/treasures/app/views/treasures/_book_form.html.erb",
+		"/www/redmine/redmine-2.5/plugins/treasures/app/views/treasures/new_book.html.erb",
+		"/www/redmine/redmine-2.5/plugins/treasures/app/controllers/treasures_controller.rb",
+		"/www/redmine/redmine-2.5/plugins/books/config/routes.rb",
+		"/www/redmine/redmine-2.5/plugins/books/config/locales/it.yml",
+		"/www/redmine/redmine-2.5/plugins/books/CHANGELOG.md",
+		"/www/redmine/redmine-2.5/plugins/books/init.rb",
+		"/www/redmine/redmine-2.5/plugins/books/app/models/book_mailer.rb",
+		"/www/redmine/redmine-2.5/plugins/books/app/views/books/_sidebar.html.erb",
+		"/www/redmine/redmine-2.5/plugins/books/app/helpers/books_helper.rb",
+		"/www/redmine/redmine-2.5/plugins/books/app/views/books/_nav.html.erb",
+		"/www/redmine/redmine-2.5/plugins/books/config/locales/zh.yml",
+		"/www/redmine/redmine-2.5/plugins/books/config/locales/en.yml",
+		"/www/redmine/redmine-2.5/plugins/books/app/views/books/_form.html.erb",
+		"/www/redmine/redmine-2.5/db/migrate/007_create_journals.rb",
+		"/www/redmine/redmine-2.5/plugins/worklogs/init.rb",
+		"/www/redmine/redmine-2.5/plugins/redmine_ezlibrarian/config/locales/en.yml",
+		"/www/redmine/redmine-2.5/Gemfile.local",
+		"/www/redmine/redmine-2.5/plugins/ezlibrarian/init.rb",
+		"/Users/iceskysl/Downloads/import_file.csv",
+		"/Users/iceskysl/Desktop/jkxy_2.csv",
+		"/Users/iceskysl/Desktop/jkxy_1.cvs",
+		"/Users/iceskysl/Desktop/jkxy_3.csv",
+		"/Users/iceskysl/Desktop/mysql",
+		"/Users/iceskysl/Desktop/eoeAndroid/mysql",
+		"/Users/iceskysl/Desktop/eoeAndroid/fdisk",
+		"/Users/iceskysl/Desktop/社区整改步骤",
+		"/Users/iceskysl/Desktop/eoeAndroid/nfs",
+		"/Users/iceskysl/Dropbox/eoe/03.极客学院/05.企业合作/joyme/着迷课程合作报价",
+		"/source/1sters/campo/config/unicorn.rb",
+		"/Users/iceskysl/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/source/jikexueyuan/www/Public/v3/static/css/ue.global.css",
+		"/source/1sters/material_design_zh/_layouts/page.html",
+		"/source/1sters/material_design_zh/index.md",
+		"/source/1sters/material_design_zh/material_design/material-design/introduction.md",
+		"/source/1sters/material_design_zh/_config.yml",
+		"/source/1sters/material_design_zh/script/update.sh",
+		"/source/1sters/material_design_zh/SOURCE/patterns/settings.md",
+		"/source/1sters/material_design_zh/SOURCE/patterns/promoted-actions.md",
+		"/source/1sters/material_design_zh/CNAME",
+		"/source/1sters/material_design_zh/SOURCE/components/bottom-sheets.md",
+		"/source/1sters/material_design_zh/SOURCE/animation/responsive-interaction.md",
+		"/source/1sters/material_design_zh/SOURCE/animation/meaningful-transitions.md",
+		"/source/1sters/material_design_zh/css/main.css",
+		"/source/1sters/material_design_zh/_includes/head.html",
+		"/source/1sters/material_design_zh/SOURCE/material-design/introduction.md"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tutorial/",
+			"Community",
+			"community",
+			"Community",
+			"users",
+			"wiki",
+			"user",
+			"/material_design/",
+			"不能为空字符",
+			"title",
+			"topic",
+			"TopicW",
+			"community",
+			"images/",
+			".md",
+			"(",
+			".md",
+			"/",
+			".md",
+			"/static/material_design_zh",
+			"load_pages_for_index",
+			"load_pages_for_index\nload_pages_for_index",
+			"w.",
+			"find_model_object",
+			"column_header",
+			"status",
+			"c.",
+			"disable",
+			"priority",
+			"label_courses",
+			"author",
+			"authoring",
+			"assignable",
+			"assignable_users",
+			"principals_options_for_select",
+			"worklog_do",
+			"book",
+			"books",
+			"model_name",
+			"worklog",
+			"worklogs",
+			"labelled_tabular_form_for",
+			"model_object",
+			"project",
+			".ue-studyPath-list-t ",
+			".ue-studyPath-list-t .blue",
+			"Typography",
+			"Sito",
+			"Grids",
+			"Imagery",
+			"codeDiving",
+			"chips",
+			"grids",
+			"Meaningful Transitions",
+			"TEMP_DIR",
+			".css",
+			"page/",
+			"](/",
+			".mp4",
+			"material-design.storage.googleapis.com",
+			".md",
+			"SOURCE/",
+			".mp4",
+			"aterial-design.storage.googleapis.com",
+			"img",
+			"Principles",
+			"user",
+			"topics",
+			"h2",
+			"32",
+			"h2, .h2",
+			"index",
+			"sidekiq",
+			"settings",
+			"admin@example.com",
+			"admin_emails",
+			"mono_logger"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"/wikis/material_design/",
+			"/wiki/material_design/",
+			"wiki",
+			"Wiki",
+			"/material_design/images/",
+			"/images/",
+			"",
+			"(/material_design/",
+			"(material_design/",
+			"",
+			"-",
+			"",
+			"/static/material_design",
+			"@worklog.",
+			"@course.",
+			"course",
+			"courses",
+			"book",
+			"books",
+			"material_design/",
+			"](page/",
+			".webm",
+			"materialdesign.qiniudn.com",
+			".html",
+			"/",
+			".webm",
+			"materialdesign.qiniudn.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "TOC.md",
+					"settings":
+					{
+						"buffer_size": 917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								917,
+								917
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "quick_start.md",
+					"settings":
+					{
+						"buffer_size": 2170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2170,
+								2170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "00-bootstrapping.md",
+					"settings":
+					{
+						"buffer_size": 1464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1462,
+								1462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"worklogmailer",
+				"plugins/worklogs/app/models/worklog_mailer.rb"
+			],
+			[
+				"issuepriority",
+				"app/models/issue_priority.rb"
+			],
+			[
+				"avataruploader",
+				"app/uploaders/avatar_uploader.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"templates/config/url.php",
+				"Templates/Config/url.php"
+			],
+			[
+				"templates/config/module.php",
+				"Templates/Config/module.php"
+			],
+			[
+				"source/config/url.php",
+				"Source/Config/url.php"
+			],
+			[
+				"source/config/module.php",
+				"Source/Config/module.php"
+			],
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"in",
+				"INSTALL"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"topic",
+				"app/models/topic.rb"
+			],
+			[
+				"set",
+				"script/setup.sh"
+			],
+			[
+				"con",
+				"config/config.yml"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"confirmation",
+				"app/views/user_mailer/confirmation.html.slim"
+			],
+			[
+				"notificationmailer",
+				"app/mailers/notification_mailer.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true
+}
